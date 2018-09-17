@@ -15,7 +15,8 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: BMJUA;
+    src: url(BMJUA_ttf.ttf), url(BMJUA_otf.otf);
 }
 
 .date {
